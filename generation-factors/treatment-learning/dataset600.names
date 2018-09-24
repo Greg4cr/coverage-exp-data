@@ -1,0 +1,11 @@
+no, high, low
+
+numobs:	continuous
+length: continuous
+size: continuous
+bcovfaulty: continuous
+bcovfixed: continuous
+lcovfaulty: continuous
+lcovfixed: continuous
+numremoved: continuous
+fixedcov: continuous
